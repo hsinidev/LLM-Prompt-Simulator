@@ -1,0 +1,5 @@
+{
+  "name": "LLM Prompt Simulator",
+  "description": "An interface to interact with a language model by providing a system context and a user query. This app simulates responses from a local LLM setup using the Gemini API.",
+  "requestFramePermissions": []
+}
